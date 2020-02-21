@@ -1,2 +1,2 @@
 # ML-Project-CS
-Classification of songs using different machine learning algorithms
+All my personal ML projects while I was in CentraleSupélec.
