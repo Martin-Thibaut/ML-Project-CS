@@ -1,2 +1,2 @@
 # ML-Project-CS
-All my personal ML projects while I was in CentraleSupélec.
+All my personal ML projects as a student in CentraleSupélec.
